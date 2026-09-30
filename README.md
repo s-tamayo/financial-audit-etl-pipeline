@@ -15,6 +15,10 @@ Vendor Master Data       - Tax Math Reconciliation   - Anomaly Log CSV
 GL Line Items            - Period Cutoff Checks      - Metrics JSON
 - Outlier (3-Sigma) Flags
 
+## Executive Audit Dashboard
+
+![Power BI Audit Dashboard](image-1.png)
+
 ---
 
 ## Audit Rules & Validation Engine
