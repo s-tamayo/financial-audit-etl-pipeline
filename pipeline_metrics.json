@@ -1,0 +1,6 @@
+{
+    "total_records_processed": 1000,
+    "flagged_transactions_count": 44,
+    "data_quality_score_percent": 95.6,
+    "total_risk_exposure_usd": 3281898.64
+}
